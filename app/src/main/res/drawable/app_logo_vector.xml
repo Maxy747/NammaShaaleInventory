@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Graduation Cap -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M5,13.18v2.81c0,0.73 4.07,1.33 5,1.51v-3.13c-0.33,-0.08 -0.66,-0.16 -1,-0.27L5,13.18z" />
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M12,3L1,9l11,6l9,-4.91V17h2V9L12,3zM18.97,9L12,12.81L5.03,9L12,5.19L18.97,9z" />
+    <!-- QR Code like shape -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M14,14h2v2h-2v-2zM14,18h2v2h-2v-2zM18,14h2v2h-2v-2zM18,18h2v2h-2v-2zM10,14h2v2h-2v-2zM10,18h2v2h-2v-2z" />
+</vector>
